@@ -32,6 +32,8 @@ Through the years I mastered essential developer skills required to pick up lang
 
 [Twitter](https://twitter.com/NRH_Developer)
 
+[AngelList](https://wellfound.com/u/nathan-r-heinz)
+
 
 <img alt="" width="26px" src="" />
 <img alt="" width="26px" src="" />
