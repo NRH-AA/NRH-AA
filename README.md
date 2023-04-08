@@ -30,9 +30,9 @@ Through the years I mastered essential developer skills required to pick up lang
 ## Socials
 [LinkedIn](https://www.linkedin.com/in/nathan-heinz-5b3718231/)
 
-[Twitter](https://twitter.com/NRH_Developer)
-
 [AngelList](https://wellfound.com/u/nathan-r-heinz)
+
+[Twitter](https://twitter.com/NRH_Developer)
 
 
 <img alt="" width="26px" src="" />
