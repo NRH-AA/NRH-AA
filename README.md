@@ -30,6 +30,8 @@ Through the years I mastered essential developer skills required to pick up lang
 ## Socials
 [LinkedIn](https://www.linkedin.com/in/nathan-heinz-5b3718231/)
 
+[MiraJobs](https://mirajobs.com/p/backend-engineer-1d4040ae)
+
 [AngelList](https://wellfound.com/u/nathan-r-heinz)
 
 [Twitter](https://twitter.com/NRH_Developer)
