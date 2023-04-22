@@ -42,3 +42,5 @@ Through the years I mastered essential developer skills required to pick up lang
 <img alt="" width="26px" src="" />
 <img alt="" width="26px" src="" />
 <img alt="" width="26px" src="" />
+
+### If my project links are "suspended" it is because I have exceeded the limit of my live service. They will be up on the 1st of the next month.
