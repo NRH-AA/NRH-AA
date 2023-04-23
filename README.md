@@ -23,9 +23,9 @@ My Name is <b>Nathan Heinz</b>. I am a <b>Software Engineer</b>.
 <img alt="Docker" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 
 ## BIO
-I have been a software engineer hobbyist for over 15 years. I started my development journey working on a server-side engine with a small [team](https://github.com/otland/forgottenserver) to emulate a game called [Tibia](https://tibia.com). After I few years I realized programming was more fun to me than actually creating a game so I started to learn more languages whenever I had free time.
+I have been a software engineer hobbyist for over 15 years. I started my development journey working on a server-side engine with a small [team](https://github.com/otland/forgottenserver) to emulate a game called [Tibia](https://tibia.com). After a few years I realized programming was more fun to me than actually creating a game so I started to learn more languages whenever I had free time.
 
-Through the years I mastered essential developer skills required to pick up languages quickly. I have spent countless hours debugging and have developed the ability to understand problems in code before they happen. I completed the coding boot camp App Academy which helped me refine my abilities of learning in a fast-paced environment and demonstrating the knowledge gained. I have also adopted the Agile methodology and worked in TDD (Test-Driven Development) environments.
+Throughout the years I mastered essential developer skills required to pick up languages quickly. I have spent countless hours debugging and have developed the ability to understand problems in code before they happen. I completed the coding boot camp App Academy which helped me refine my abilities of learning in a fast-paced environment and demonstrating the knowledge gained. I have also adopted the Agile methodology and worked in TDD (Test-Driven Development) environments.
 
 ## Socials
 [LinkedIn](https://www.linkedin.com/in/nathan-heinz-5b3718231/)
