@@ -30,6 +30,10 @@ Throughout the years I mastered essential developer skills required to pick up l
 ## Socials
 [LinkedIn](https://www.linkedin.com/in/nathan-heinz-5b3718231/)
 
+[Portfolio](https://nrh-portfolio.vercel.app/)
+
+[Resume](https://docs.google.com/document/d/1-SScRKmZnC-DHte16ncPpuIy_HrVSBsxPJfmkKsVzeQ/edit?usp=sharing)
+
 [MiraJobs](https://mirajobs.com/p/backend-engineer-1d4040ae)
 
 [AngelList](https://wellfound.com/u/nathan-r-heinz)
