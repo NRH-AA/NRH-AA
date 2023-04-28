@@ -27,7 +27,7 @@ I have been interested in software development for as long as I can remember. I 
 Initially, I was interested in creating my own game using their engine. However, I soon realized that I was enjoying coding more than designing a game. Over the next 15 years, I studied multiple programming languages and acquired important skills as a developer and team member.
 
 
-## Socials
+## Additional Links
 [LinkedIn](https://www.linkedin.com/in/nathan-heinz-5b3718231/)
 
 [Portfolio](https://nrh-portfolio.vercel.app/)
