@@ -26,6 +26,11 @@ I have been a software engineer hobbyist for over 15 years. I started my develop
 
 Throughout the years I mastered essential developer skills required to pick up languages quickly. I have spent countless hours debugging and have developed the ability to understand problems in code before they happen. I completed the coding boot camp App Academy which helped me refine my abilities of learning in a fast-paced environment and demonstrating the knowledge gained. I have also adopted the Agile methodology and worked in TDD (Test-Driven Development) environments.
 
+I have been interested in software development for as long as I can remember. I was introduced to the world of programming by stumbling upon a community of [developers](https://github.com/otland/forgottenserver) who had created a server-side game engine that allowed them to emulate an online MMORPG called [Tibia](https://tibia.com).
+
+Initially, I was interested in creating my own game using their engine. However, I soon realized that I was enjoying coding more than designing a game. Over the next 15 years, I studied multiple programming languages and acquired important skills as a developer and team member.
+
+
 ## Socials
 [LinkedIn](https://www.linkedin.com/in/nathan-heinz-5b3718231/)
 
