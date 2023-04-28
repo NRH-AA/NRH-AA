@@ -22,10 +22,6 @@ My Name is <b>Nathan Heinz</b>. I am a <b>Software Engineer</b>.
 <img title="Docker" alt="Docker" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 
 ## BIO
-I have been a software engineer hobbyist for over 15 years. I started my development journey working on a server-side engine with a small [team](https://github.com/otland/forgottenserver) to emulate a game called [Tibia](https://tibia.com). After a few years I realized programming was more fun to me than actually creating a game so I started to learn more languages whenever I had free time.
-
-Throughout the years I mastered essential developer skills required to pick up languages quickly. I have spent countless hours debugging and have developed the ability to understand problems in code before they happen. I completed the coding boot camp App Academy which helped me refine my abilities of learning in a fast-paced environment and demonstrating the knowledge gained. I have also adopted the Agile methodology and worked in TDD (Test-Driven Development) environments.
-
 I have been interested in software development for as long as I can remember. I was introduced to the world of programming by stumbling upon a community of [developers](https://github.com/otland/forgottenserver) who had created a server-side game engine that allowed them to emulate an online MMORPG called [Tibia](https://tibia.com).
 
 Initially, I was interested in creating my own game using their engine. However, I soon realized that I was enjoying coding more than designing a game. Over the next 15 years, I studied multiple programming languages and acquired important skills as a developer and team member.
