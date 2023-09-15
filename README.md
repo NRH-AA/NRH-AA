@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan Heinz</h1>
-<h3 align="center">A passionate software developer from Oregon</h3>
+<h3 align="center">Software Engineer || Full Stack Developer</h3>
 
 - 🔭 I’m currently working on [three projects as seen on my porfolio](https://nrh-portfolio.vercel.app/)
 
