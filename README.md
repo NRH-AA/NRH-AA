@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://nrh-portfolio.vercel.app/](https://nrh-portfolio.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@nathanrheinz](https://medium.com/@nathanrheinz)
-
 - 💬 Ask me about **React, TypeScript, Python, JavaScript**
 
 - 📫 How to reach me **NathanRHeinz@gmail.com**
@@ -18,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nathan-heinz-5b3718231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nathan-heinz-5b3718231/" height="30" width="40" /></a>
-<a href="https://medium.com/@nathanrheinz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nathanrheinz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
