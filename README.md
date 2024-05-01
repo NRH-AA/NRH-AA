@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm Nathan Heinz</h1>
-<h3 align="center">Software Engineer || Full Stack Developer</h3>
+<h1 align="center">Nathan Heinz | SWE | FSD | 18 Years Developing Experience</h1>
 
-- 🔭 I’m currently working on [three projects as seen on my porfolio](https://nrh-portfolio.vercel.app/)
-
-- 🌱 I’m currently learning **NextJS**
+- 🔭 I’m currently working on: a 2D MMORPG in C++ called ... Still thinking of a name but maybe SwordCraft Online.
 
 - 👨‍💻 All of my projects are available at [https://nrh-portfolio.vercel.app/](https://nrh-portfolio.vercel.app/)
 
-- 💬 Ask me about **React, TypeScript, Python, JavaScript**
+- 💬 Ask me about: **Psychology, Philosophy, C++, JavaScript, Python, or anything else!**
 
-- 📫 How to reach me **NathanRHeinz@gmail.com**
+- 📫 How to reach me: **NathanRHeinz@gmail.com**
 
-- ⚡ Fun fact **Freshwater Otters swim with their babies on their belly for up to a year after birth.**
+- ⚡ F-U-N fact: **F is for friends who do stuff together. U is for you and me. N is or anywhere and anytime at all! Under the deep blue sky.**
+
+- ⚡ Moto: **Just keep swimming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
