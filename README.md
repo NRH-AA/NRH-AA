@@ -10,7 +10,7 @@
 
 - ⚡ F-U-N fact: **F is for friends who do stuff together. U is for you and me. N is or anywhere and anytime at all! Under the deep blue sky.**
 
-- ⚡ Moto: **Just keep swimming.**
+- ⚡ Motto: **Just keep swimming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
