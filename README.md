@@ -8,10 +8,6 @@
 
 - 📫 How to reach me: **NathanRHeinz@gmail.com**
 
-- ⚡ F-U-N fact: **F is for friends who do stuff together. U is for you and me. N is or anywhere and anytime at all! Under the deep blue sky.**
-
-- ⚡ Motto: **Just keep swimming.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nathan-heinz-5b3718231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nathan-heinz-5b3718231/" height="30" width="40" /></a>
