@@ -1,4 +1,4 @@
-<h1 align="center">Nathan Heinz | SWE | FSD | 18 Years Developing Experience</h1>
+<h1 align="center">Nathan Heinz | SWE | FSD | 20 Years Developing Experience</h1>
 
 - 🔭 I’m currently working on: a 2D MMORPG in C++ called ... Still thinking of a name but maybe SwordCraft Online.
 
