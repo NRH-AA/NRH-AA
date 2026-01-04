@@ -1,4 +1,4 @@
-<h1 align="center">Nathan | SWE | FSD | 20 Years Developing Experience</h1>
+<h1 align="center">Nathan | SWE | FSD | AST-Computer Science </h1>
 
 - 🔭 I’m currently working on: a 2D MMORPG (Unofficial alpha website: SnafuWorld.org)
 
